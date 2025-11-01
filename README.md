@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Next.js and TypeScript**.
 - 👯 I’m looking to collaborate on **open-source front-end projects**.
 - 💬 Ask me about **HTML, CSS, JavaScript, and React**.
-- 📫 How to reach me: **mdmarufhossen71.site@gmail.com**
+- 📫 How to reach me: **mdmarufhossen@duck.com**
 - ⚡ Fun fact: I love turning ideas into reality with code!
 
 <h3 align="left">Connect with me:</h3>
