@@ -124,6 +124,12 @@ const maruf = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdmarufhossen71&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph"/>
 </div>
 
+<div align="center">
+    <img src="https://github.com/MdMarufHossen71/MdMarufHossen71/blob/master/github-metrics.svg" alt="Metrics" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdmarufhossen71&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmarufhossen71&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+</div>
+
 ---
 
 ## 🌐 Connect With Me
