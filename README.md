@@ -126,6 +126,16 @@ const maruf = {
 
 ---
 
+## 📈 Detailed GitHub Metrics
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MdMarufHossen71/MdMarufHossen71/main/github-metrics.svg" alt="Detailed GitHub Metrics" width="100%"/>
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
